@@ -40,8 +40,21 @@ body {
 	margin-left: -19.5%;
 }
 
-#bala {
-	object-fit: fill;
+#explosoes,
+#disparo {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	pointer-events: none;
+}
+
+#explosoes {
+	will-change: transform;
+}
+
+#disparo {
 	z-index: 2;
 }
 
