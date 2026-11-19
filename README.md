@@ -13,7 +13,7 @@ Cada camada se move numa velocidade diferente enquanto você rola a página:
 | Balas | andam para o lado |
 | Título "CyberGirl" | sobe mais rápido |
 
-A animação usa `transform` + `requestAnimationFrame` para ficar suave, e é desligada para quem ativou "reduzir movimento" no sistema.
+A animação usa `transform` + `requestAnimationFrame` para ficar suave. Para quem ativou "reduzir movimento" no sistema, o efeito continua, mas mais suave.
 
 ## Rodando
 
