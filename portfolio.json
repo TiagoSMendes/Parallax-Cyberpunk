@@ -1,0 +1,19 @@
+{
+  "_sobre": "Lido automaticamente pelo portfólio de Tiago Mendes. Edite para mudar como o projeto aparece lá.",
+  "titulo": {
+    "pt": "Parallax Cyberpunk",
+    "en": "Cyberpunk parallax"
+  },
+  "descricao": {
+    "pt": "Efeito parallax com disparo, bala voando e explosões animadas em canvas.",
+    "en": "Parallax effect with a muzzle flash, flying bullet and canvas-animated explosions."
+  },
+  "tags": [
+    "JavaScript",
+    "Canvas",
+    "Animação"
+  ],
+  "site": "https://cybergirlparallax.netlify.app",
+  "imagem": "portfolio.webp",
+  "ordem": 1
+}
